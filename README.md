@@ -6,3 +6,4 @@ Avaiable here: http://t.me/qrcreator_bot
 
 ### Thanks to:
 * Telepot (https://github.com/nickoala/telepot)
+* QR Code Generator (http://goqr.me/api/)
