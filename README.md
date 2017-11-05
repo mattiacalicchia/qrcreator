@@ -4,7 +4,7 @@
 Send him your text to have a QR code <br>
 Avaiable here: http://t.me/qrcreator_bot
 
-<img src="https://github.com/mattiacalicchia/qrcreator/blob/master/snapshot.jpeg?raw=true" width="150">
+<img src="https://github.com/mattiacalicchia/qrcreator/blob/master/snapshot.jpeg?raw=true" width="350">
 
 ### Thanks to:
 * Telepot (https://github.com/nickoala/telepot)
